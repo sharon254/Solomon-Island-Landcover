@@ -1,0 +1,799 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2015,2015,1000 ha,1.9,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2016,2016,1000 ha,1.92,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2017,2017,1000 ha,1.92,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2018,2018,1000 ha,1.93,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6970,Artificial surfaces (including urban and associated areas),2019,2019,1000 ha,1.99,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2001,2001,1000 ha,1.77,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2002,2002,1000 ha,1.95,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2003,2003,1000 ha,1.95,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2004,2004,1000 ha,1.92,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2005,2005,1000 ha,1.92,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2006,2006,1000 ha,1.9,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2007,2007,1000 ha,1.92,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2008,2008,1000 ha,1.95,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2009,2009,1000 ha,1.9,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2010,2010,1000 ha,1.9,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2011,2011,1000 ha,1.88,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2012,2012,1000 ha,1.92,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2013,2013,1000 ha,1.9,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2014,2014,1000 ha,1.95,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2015,2015,1000 ha,1.95,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2016,2016,1000 ha,1.97,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2017,2017,1000 ha,2.01,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2018,2018,1000 ha,2.03,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2019,2019,1000 ha,2.01,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2020,2020,1000 ha,2.03,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6970,Artificial surfaces (including urban and associated areas),2021,2021,1000 ha,2.01,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1992,1992,1000 ha,0.62,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1993,1993,1000 ha,0.63,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1994,1994,1000 ha,0.65,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1995,1995,1000 ha,0.65,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1996,1996,1000 ha,0.66,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1997,1997,1000 ha,0.69,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1998,1998,1000 ha,0.69,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),1999,1999,1000 ha,0.69,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2000,2000,1000 ha,0.8,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2001,2001,1000 ha,0.8,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2002,2002,1000 ha,0.8,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2003,2003,1000 ha,0.8,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2004,2004,1000 ha,0.8,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2005,2005,1000 ha,0.8,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2006,2006,1000 ha,0.82,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2007,2007,1000 ha,0.83,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2008,2008,1000 ha,0.83,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2009,2009,1000 ha,0.83,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2010,2010,1000 ha,0.84,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2011,2011,1000 ha,0.84,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2012,2012,1000 ha,0.85,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2013,2013,1000 ha,0.87,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2014,2014,1000 ha,0.88,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2015,2015,1000 ha,0.91,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2016,2016,1000 ha,0.91,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2017,2017,1000 ha,0.91,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2018,2018,1000 ha,0.91,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2019,2019,1000 ha,0.91,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6970,Artificial surfaces (including urban and associated areas),2020,2020,1000 ha,0.92,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6970,Artificial surfaces (including urban and associated areas),2020,2020,1000 ha,1.57,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6970,Artificial surfaces (including urban and associated areas),2021,2021,1000 ha,2.06,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6971,Herbaceous crops,2015,2015,1000 ha,0.7,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6971,Herbaceous crops,2016,2016,1000 ha,0.66,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6971,Herbaceous crops,2017,2017,1000 ha,0.64,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6971,Herbaceous crops,2018,2018,1000 ha,0.63,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6971,Herbaceous crops,2019,2019,1000 ha,0.61,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2001,2001,1000 ha,0.77,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2002,2002,1000 ha,0.64,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2003,2003,1000 ha,0.87,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2004,2004,1000 ha,0.68,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2005,2005,1000 ha,0.66,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2006,2006,1000 ha,0.71,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2007,2007,1000 ha,0.71,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2008,2008,1000 ha,0.68,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2009,2009,1000 ha,0.72,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2010,2010,1000 ha,0.8,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2011,2011,1000 ha,0.82,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2012,2012,1000 ha,0.84,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2013,2013,1000 ha,0.74,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2014,2014,1000 ha,0.6,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2015,2015,1000 ha,0.57,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2016,2016,1000 ha,0.58,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2017,2017,1000 ha,0.57,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2018,2018,1000 ha,0.53,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2019,2019,1000 ha,0.53,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2020,2020,1000 ha,0.5,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6971,Herbaceous crops,2021,2021,1000 ha,0.67,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,1992,1992,1000 ha,4.82,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,1993,1993,1000 ha,4.82,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,1994,1994,1000 ha,4.82,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,1995,1995,1000 ha,5.18,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,1996,1996,1000 ha,5.18,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,1997,1997,1000 ha,5.19,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,1998,1998,1000 ha,5.55,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,1999,1999,1000 ha,5.93,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2000,2000,1000 ha,5.93,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2001,2001,1000 ha,6.36,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2002,2002,1000 ha,6.25,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2003,2003,1000 ha,6.39,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2004,2004,1000 ha,6.36,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2005,2005,1000 ha,5.9,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2006,2006,1000 ha,5.58,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2007,2007,1000 ha,5.58,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2008,2008,1000 ha,5.74,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2009,2009,1000 ha,5.86,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2010,2010,1000 ha,5.88,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2011,2011,1000 ha,5.74,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2012,2012,1000 ha,6,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2013,2013,1000 ha,6,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2014,2014,1000 ha,6.79,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2015,2015,1000 ha,6.69,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2016,2016,1000 ha,7.25,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2017,2017,1000 ha,7.34,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2018,2018,1000 ha,7.84,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2019,2019,1000 ha,8.47,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6971,Herbaceous crops,2020,2020,1000 ha,8.6,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6971,Herbaceous crops,2020,2020,1000 ha,0.53,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6971,Herbaceous crops,2021,2021,1000 ha,0.11,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6972,Woody crops,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6972,Woody crops,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6972,Woody crops,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6972,Woody crops,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6972,Woody crops,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2001,2001,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2002,2002,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2003,2003,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2004,2004,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2005,2005,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2006,2006,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2007,2007,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2008,2008,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2009,2009,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2010,2010,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2011,2011,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2012,2012,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2013,2013,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2014,2014,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6972,Woody crops,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,1992,1992,1000 ha,24.08,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,1993,1993,1000 ha,24.08,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,1994,1994,1000 ha,24.08,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,1995,1995,1000 ha,23.73,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,1996,1996,1000 ha,23.75,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,1997,1997,1000 ha,23.77,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,1998,1998,1000 ha,23.49,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,1999,1999,1000 ha,23.3,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2000,2000,1000 ha,23.29,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2001,2001,1000 ha,23.32,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2002,2002,1000 ha,23.75,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2003,2003,1000 ha,23.57,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2004,2004,1000 ha,23.46,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2005,2005,1000 ha,23.98,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2006,2006,1000 ha,24.4,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2007,2007,1000 ha,24.39,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2008,2008,1000 ha,24.29,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2009,2009,1000 ha,24.43,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2010,2010,1000 ha,24.77,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2011,2011,1000 ha,25.08,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2012,2012,1000 ha,24.92,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2013,2013,1000 ha,24.91,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2014,2014,1000 ha,28.37,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2015,2015,1000 ha,28.44,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2016,2016,1000 ha,31.19,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2017,2017,1000 ha,32.66,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2018,2018,1000 ha,34.9,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2019,2019,1000 ha,37.71,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6972,Woody crops,2020,2020,1000 ha,38.25,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6972,Woody crops,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6972,Woody crops,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6973,Multiple or layered crops,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6973,Multiple or layered crops,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6973,Multiple or layered crops,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6973,Multiple or layered crops,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6973,Multiple or layered crops,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2001,2001,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2002,2002,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2003,2003,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2004,2004,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2005,2005,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2006,2006,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2007,2007,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2008,2008,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2009,2009,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2010,2010,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2011,2011,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2012,2012,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2013,2013,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2014,2014,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6973,Multiple or layered crops,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,1992,1992,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,1993,1993,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,1994,1994,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,1995,1995,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,1996,1996,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,1997,1997,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,1998,1998,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,1999,1999,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2000,2000,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2001,2001,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2002,2002,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2003,2003,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2004,2004,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2005,2005,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2006,2006,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2007,2007,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2008,2008,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2009,2009,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2010,2010,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2011,2011,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2012,2012,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2013,2013,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2014,2014,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6973,Multiple or layered crops,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6973,Multiple or layered crops,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6973,Multiple or layered crops,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6983,Grassland,2015,2015,1000 ha,4.82,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6983,Grassland,2016,2016,1000 ha,4.72,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6983,Grassland,2017,2017,1000 ha,4.7,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6983,Grassland,2018,2018,1000 ha,4.66,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6983,Grassland,2019,2019,1000 ha,4.58,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2001,2001,1000 ha,18.79,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2002,2002,1000 ha,17.02,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2003,2003,1000 ha,19.6,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2004,2004,1000 ha,18.75,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2005,2005,1000 ha,17.14,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2006,2006,1000 ha,16.29,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2007,2007,1000 ha,18.17,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2008,2008,1000 ha,20.27,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2009,2009,1000 ha,23.39,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2010,2010,1000 ha,23.52,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2011,2011,1000 ha,22.77,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2012,2012,1000 ha,24.2,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2013,2013,1000 ha,24.46,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2014,2014,1000 ha,27.9,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2015,2015,1000 ha,28.88,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2016,2016,1000 ha,32.13,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2017,2017,1000 ha,30.06,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2018,2018,1000 ha,31.17,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2019,2019,1000 ha,33.9,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2020,2020,1000 ha,32.56,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6983,Grassland,2021,2021,1000 ha,31.32,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,1992,1992,1000 ha,4.31,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,1993,1993,1000 ha,4.32,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,1994,1994,1000 ha,4.32,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,1995,1995,1000 ha,4.32,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,1996,1996,1000 ha,4.32,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,1997,1997,1000 ha,4.33,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,1998,1998,1000 ha,4.34,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,1999,1999,1000 ha,4.37,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2000,2000,1000 ha,4.38,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2001,2001,1000 ha,4.41,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2002,2002,1000 ha,4.44,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2003,2003,1000 ha,4.43,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2004,2004,1000 ha,4.41,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2005,2005,1000 ha,4.42,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2006,2006,1000 ha,4.43,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2007,2007,1000 ha,4.43,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2008,2008,1000 ha,4.43,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2009,2009,1000 ha,4.48,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2010,2010,1000 ha,4.52,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2011,2011,1000 ha,4.54,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2012,2012,1000 ha,4.58,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2013,2013,1000 ha,4.58,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2014,2014,1000 ha,5.19,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2015,2015,1000 ha,5.19,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2016,2016,1000 ha,5.47,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2017,2017,1000 ha,5.63,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2018,2018,1000 ha,5.89,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2019,2019,1000 ha,6.2,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6983,Grassland,2020,2020,1000 ha,6.25,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6983,Grassland,2020,2020,1000 ha,38.03,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6983,Grassland,2021,2021,1000 ha,50.06,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6974,Tree-covered areas,2015,2015,1000 ha,2623.93,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6974,Tree-covered areas,2016,2016,1000 ha,2622.77,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6974,Tree-covered areas,2017,2017,1000 ha,2622.33,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6974,Tree-covered areas,2018,2018,1000 ha,2621.29,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6974,Tree-covered areas,2019,2019,1000 ha,2621.11,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2001,2001,1000 ha,2436.98,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2002,2002,1000 ha,2545.81,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2003,2003,1000 ha,2556.39,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2004,2004,1000 ha,2560.73,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2005,2005,1000 ha,2552.35,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2006,2006,1000 ha,2552.33,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2007,2007,1000 ha,2552.6,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2008,2008,1000 ha,2557.59,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2009,2009,1000 ha,2555.99,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2010,2010,1000 ha,2557.02,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2011,2011,1000 ha,2562.15,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2012,2012,1000 ha,2571.34,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2013,2013,1000 ha,2579.95,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2014,2014,1000 ha,2579.13,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2015,2015,1000 ha,2581.43,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2016,2016,1000 ha,2576.8,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2017,2017,1000 ha,2583.01,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2018,2018,1000 ha,2590.08,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2019,2019,1000 ha,2593.7,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2020,2020,1000 ha,2597.75,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6974,Tree-covered areas,2021,2021,1000 ha,2594.37,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,1992,1992,1000 ha,2558.25,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,1993,1993,1000 ha,2558.25,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,1994,1994,1000 ha,2558.23,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,1995,1995,1000 ha,2559.68,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,1996,1996,1000 ha,2562.83,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,1997,1997,1000 ha,2566.15,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,1998,1998,1000 ha,2566.54,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,1999,1999,1000 ha,2566.97,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2000,2000,1000 ha,2567.23,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2001,2001,1000 ha,2568.1,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2002,2002,1000 ha,2568.09,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2003,2003,1000 ha,2568.18,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2004,2004,1000 ha,2568.52,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2005,2005,1000 ha,2568.57,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2006,2006,1000 ha,2568.51,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2007,2007,1000 ha,2568.53,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2008,2008,1000 ha,2568.44,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2009,2009,1000 ha,2568.11,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2010,2010,1000 ha,2567.64,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2011,2011,1000 ha,2567.49,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2012,2012,1000 ha,2567.35,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2013,2013,1000 ha,2567.45,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2014,2014,1000 ha,2563.12,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2015,2015,1000 ha,2563.13,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2016,2016,1000 ha,2558.9,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2017,2017,1000 ha,2556.8,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2018,2018,1000 ha,2553.6,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2019,2019,1000 ha,2549.43,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6974,Tree-covered areas,2020,2020,1000 ha,2548.32,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6974,Tree-covered areas,2020,2020,1000 ha,2620.75,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6974,Tree-covered areas,2021,2021,1000 ha,2628.01,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6975,Mangroves,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6975,Mangroves,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6975,Mangroves,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6975,Mangroves,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6975,Mangroves,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2001,2001,1000 ha,326.68,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2002,2002,1000 ha,220.69,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2003,2003,1000 ha,207.42,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2004,2004,1000 ha,204,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2005,2005,1000 ha,213.81,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2006,2006,1000 ha,215.26,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2007,2007,1000 ha,213.23,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2008,2008,1000 ha,206.26,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2009,2009,1000 ha,205.64,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2010,2010,1000 ha,205.81,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2011,2011,1000 ha,202.09,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2012,2012,1000 ha,191.49,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2013,2013,1000 ha,182.21,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2014,2014,1000 ha,179.46,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2015,2015,1000 ha,175.97,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2016,2016,1000 ha,176.85,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2017,2017,1000 ha,172.53,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2018,2018,1000 ha,164.47,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2019,2019,1000 ha,158.23,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2020,2020,1000 ha,156.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6975,Mangroves,2021,2021,1000 ha,161.24,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,1992,1992,1000 ha,133.15,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,1993,1993,1000 ha,133.14,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,1994,1994,1000 ha,133.14,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,1995,1995,1000 ha,133.27,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,1996,1996,1000 ha,133.36,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,1997,1997,1000 ha,133.56,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,1998,1998,1000 ha,133.86,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,1999,1999,1000 ha,134.09,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2000,2000,1000 ha,134.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2001,2001,1000 ha,134.32,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2002,2002,1000 ha,134.75,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2003,2003,1000 ha,134.84,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2004,2004,1000 ha,135.38,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2005,2005,1000 ha,135.49,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2006,2006,1000 ha,135.63,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2007,2007,1000 ha,135.69,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2008,2008,1000 ha,135.68,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2009,2009,1000 ha,135.69,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2010,2010,1000 ha,135.7,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2011,2011,1000 ha,135.71,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2012,2012,1000 ha,135.82,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2013,2013,1000 ha,135.82,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2014,2014,1000 ha,136.86,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2015,2015,1000 ha,136.86,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2016,2016,1000 ha,136.83,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2017,2017,1000 ha,136.8,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2018,2018,1000 ha,136.79,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2019,2019,1000 ha,136.78,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6975,Mangroves,2020,2020,1000 ha,136.43,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6975,Mangroves,2020,2020,1000 ha,71.09,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6975,Mangroves,2021,2021,1000 ha,56.14,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6976,Shrub-covered areas,2015,2015,1000 ha,0.12,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6976,Shrub-covered areas,2016,2016,1000 ha,0.12,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6976,Shrub-covered areas,2017,2017,1000 ha,0.12,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6976,Shrub-covered areas,2018,2018,1000 ha,0.12,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6976,Shrub-covered areas,2019,2019,1000 ha,0.12,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2001,2001,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2002,2002,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2003,2003,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2004,2004,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2005,2005,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2006,2006,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2007,2007,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2008,2008,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2009,2009,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2010,2010,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2011,2011,1000 ha,0.02,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2012,2012,1000 ha,0.02,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2013,2013,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2014,2014,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2015,2015,1000 ha,0.02,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2016,2016,1000 ha,0.09,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2017,2017,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2018,2018,1000 ha,0.06,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2019,2019,1000 ha,0.02,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2020,2020,1000 ha,0.02,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6976,Shrub-covered areas,2021,2021,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,1992,1992,1000 ha,2.83,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,1993,1993,1000 ha,2.83,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,1994,1994,1000 ha,2.83,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,1995,1995,1000 ha,2.84,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,1996,1996,1000 ha,2.84,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,1997,1997,1000 ha,2.84,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,1998,1998,1000 ha,2.84,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,1999,1999,1000 ha,2.86,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2000,2000,1000 ha,2.86,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2001,2001,1000 ha,2.86,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2002,2002,1000 ha,2.87,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2003,2003,1000 ha,2.87,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2004,2004,1000 ha,2.86,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2005,2005,1000 ha,2.86,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2006,2006,1000 ha,2.86,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2007,2007,1000 ha,2.86,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2008,2008,1000 ha,2.86,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2009,2009,1000 ha,2.89,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2010,2010,1000 ha,2.96,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2011,2011,1000 ha,2.97,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2012,2012,1000 ha,3,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2013,2013,1000 ha,3,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2014,2014,1000 ha,3.4,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2015,2015,1000 ha,3.4,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2016,2016,1000 ha,4.08,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2017,2017,1000 ha,4.49,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2018,2018,1000 ha,4.7,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2019,2019,1000 ha,5.13,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6976,Shrub-covered areas,2020,2020,1000 ha,5.13,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6976,Shrub-covered areas,2020,2020,1000 ha,0.44,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6976,Shrub-covered areas,2021,2021,1000 ha,0.08,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2015,2015,1000 ha,3.78,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2016,2016,1000 ha,8.16,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2017,2017,1000 ha,8.39,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2018,2018,1000 ha,9.64,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2019,2019,1000 ha,9.93,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2001,2001,1000 ha,4.19,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2002,2002,1000 ha,4.3,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2003,2003,1000 ha,3.83,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2004,2004,1000 ha,4.34,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2005,2005,1000 ha,3.93,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2006,2006,1000 ha,3.8,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2007,2007,1000 ha,3.87,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2008,2008,1000 ha,3.83,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2009,2009,1000 ha,3.1,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2010,2010,1000 ha,2.31,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2011,2011,1000 ha,2.09,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2012,2012,1000 ha,1.69,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2013,2013,1000 ha,1.56,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2014,2014,1000 ha,1.86,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2015,2015,1000 ha,2.05,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2016,2016,1000 ha,2.27,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2017,2017,1000 ha,2.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2018,2018,1000 ha,2.31,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2019,2019,1000 ha,2.67,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2020,2020,1000 ha,2.29,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2021,2021,1000 ha,1.6,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1992,1992,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1993,1993,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1994,1994,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1995,1995,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1996,1996,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1997,1997,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1998,1998,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",1999,1999,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2000,2000,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2001,2001,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2002,2002,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2003,2003,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2004,2004,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2005,2005,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2006,2006,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2007,2007,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2008,2008,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2009,2009,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2010,2010,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2011,2011,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2012,2012,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2013,2013,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2014,2014,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2015,2015,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2016,2016,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2017,2017,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2018,2018,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2019,2019,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2020,2020,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2020,2020,1000 ha,1.95,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6977,"Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",2021,2021,1000 ha,1.09,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6978,Sparsely natural vegetated areas,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2001,2001,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2002,2002,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2003,2003,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2004,2004,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2005,2005,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2006,2006,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2007,2007,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2008,2008,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2009,2009,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2010,2010,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2011,2011,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2012,2012,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2013,2013,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2014,2014,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6978,Sparsely natural vegetated areas,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1992,1992,1000 ha,0.17,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1993,1993,1000 ha,0.17,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1994,1994,1000 ha,0.17,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1995,1995,1000 ha,0.17,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1996,1996,1000 ha,0.17,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1997,1997,1000 ha,0.17,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1998,1998,1000 ha,0.17,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,1999,1999,1000 ha,0.17,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2000,2000,1000 ha,0.17,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2001,2001,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2002,2002,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2003,2003,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2004,2004,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2005,2005,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2006,2006,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2007,2007,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2008,2008,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2009,2009,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2010,2010,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2011,2011,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2012,2012,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2013,2013,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2014,2014,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2015,2015,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2016,2016,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2017,2017,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2018,2018,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2019,2019,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6978,Sparsely natural vegetated areas,2020,2020,1000 ha,0.22,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6978,Sparsely natural vegetated areas,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6978,Sparsely natural vegetated areas,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6979,Terrestrial barren land,2015,2015,1000 ha,0.03,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6979,Terrestrial barren land,2016,2016,1000 ha,0.02,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6979,Terrestrial barren land,2017,2017,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6979,Terrestrial barren land,2018,2018,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6979,Terrestrial barren land,2019,2019,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2001,2001,1000 ha,0.96,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2002,2002,1000 ha,0.73,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2003,2003,1000 ha,0.83,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2004,2004,1000 ha,0.71,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2005,2005,1000 ha,0.64,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2006,2006,1000 ha,0.43,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2007,2007,1000 ha,0.47,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2008,2008,1000 ha,0.34,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2009,2009,1000 ha,0.32,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2010,2010,1000 ha,0.24,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2011,2011,1000 ha,0.26,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2012,2012,1000 ha,0.34,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2013,2013,1000 ha,0.32,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2014,2014,1000 ha,0.28,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2015,2015,1000 ha,0.26,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2016,2016,1000 ha,0.24,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2017,2017,1000 ha,0.28,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2018,2018,1000 ha,0.21,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2019,2019,1000 ha,0.24,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2020,2020,1000 ha,0.26,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6979,Terrestrial barren land,2021,2021,1000 ha,0.17,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,1992,1992,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,1993,1993,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,1994,1994,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,1995,1995,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,1996,1996,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,1997,1997,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,1998,1998,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,1999,1999,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2000,2000,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2001,2001,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2002,2002,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2003,2003,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2004,2004,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2005,2005,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2006,2006,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2007,2007,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2008,2008,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2009,2009,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2010,2010,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2011,2011,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2012,2012,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2013,2013,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2014,2014,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2015,2015,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2016,2016,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2017,2017,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2018,2018,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2019,2019,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6979,Terrestrial barren land,2020,2020,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6979,Terrestrial barren land,2020,2020,1000 ha,11.97,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6979,Terrestrial barren land,2021,2021,1000 ha,2.5,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6980,Permanent snow and glaciers,2015,2015,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6980,Permanent snow and glaciers,2016,2016,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6980,Permanent snow and glaciers,2017,2017,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6980,Permanent snow and glaciers,2018,2018,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6980,Permanent snow and glaciers,2019,2019,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2001,2001,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2002,2002,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2003,2003,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2004,2004,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2005,2005,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2006,2006,1000 ha,0.02,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2007,2007,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2008,2008,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2009,2009,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2010,2010,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2011,2011,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2012,2012,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2013,2013,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2014,2014,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2015,2015,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2016,2016,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2017,2017,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2018,2018,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2019,2019,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2020,2020,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6980,Permanent snow and glaciers,2021,2021,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1992,1992,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1993,1993,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1994,1994,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1995,1995,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1996,1996,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1997,1997,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1998,1998,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,1999,1999,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2000,2000,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2001,2001,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2002,2002,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2003,2003,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2004,2004,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2005,2005,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2006,2006,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2007,2007,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2008,2008,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2009,2009,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2010,2010,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2011,2011,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2012,2012,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2013,2013,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2014,2014,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2015,2015,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2016,2016,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2017,2017,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2018,2018,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2019,2019,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6980,Permanent snow and glaciers,2020,2020,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6980,Permanent snow and glaciers,2020,2020,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6980,Permanent snow and glaciers,2021,2021,1000 ha,0,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6981,Inland water bodies,2015,2015,1000 ha,28.49,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6981,Inland water bodies,2016,2016,1000 ha,25.42,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6981,Inland water bodies,2017,2017,1000 ha,25.68,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6981,Inland water bodies,2018,2018,1000 ha,25.52,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6981,Inland water bodies,2019,2019,1000 ha,25.45,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2001,2001,1000 ha,30.61,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2002,2002,1000 ha,31.62,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2003,2003,1000 ha,32.02,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2004,2004,1000 ha,31.87,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2005,2005,1000 ha,32.04,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2006,2006,1000 ha,32.3,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2007,2007,1000 ha,32.17,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2008,2008,1000 ha,32.26,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2009,2009,1000 ha,32.36,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2010,2010,1000 ha,32.07,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2011,2011,1000 ha,31.77,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2012,2012,1000 ha,31.59,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2013,2013,1000 ha,31.68,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2014,2014,1000 ha,31.68,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2015,2015,1000 ha,31.79,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2016,2016,1000 ha,31.79,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2017,2017,1000 ha,31.96,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2018,2018,1000 ha,31.66,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2019,2019,1000 ha,31.57,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2020,2020,1000 ha,31.89,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6981,Inland water bodies,2021,2021,1000 ha,31.98,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,1992,1992,1000 ha,113.85,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,1993,1993,1000 ha,113.85,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,1994,1994,1000 ha,113.85,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,1995,1995,1000 ha,112.24,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,1996,1996,1000 ha,108.97,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,1997,1997,1000 ha,105.39,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,1998,1998,1000 ha,104.59,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,1999,1999,1000 ha,103.7,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2000,2000,1000 ha,103.2,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2001,2001,1000 ha,101.69,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2002,2002,1000 ha,100.93,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2003,2003,1000 ha,100.79,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2004,2004,1000 ha,100.07,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2005,2005,1000 ha,99.84,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2006,2006,1000 ha,99.64,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2007,2007,1000 ha,99.56,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2008,2008,1000 ha,99.59,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2009,2009,1000 ha,99.59,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2010,2010,1000 ha,99.55,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2011,2011,1000 ha,99.48,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2012,2012,1000 ha,99.34,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2013,2013,1000 ha,99.24,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2014,2014,1000 ha,97.24,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2015,2015,1000 ha,97.24,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2016,2016,1000 ha,97.24,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2017,2017,1000 ha,97.24,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2018,2018,1000 ha,97.24,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2019,2019,1000 ha,97.24,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6981,Inland water bodies,2020,2020,1000 ha,98.04,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6981,Inland water bodies,2020,2020,1000 ha,81.31,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6981,Inland water bodies,2021,2021,1000 ha,87.6,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2015,2015,1000 ha,163.92,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2016,2016,1000 ha,163.92,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2017,2017,1000 ha,163.92,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2018,2018,1000 ha,163.92,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5006,Area from CGLS,6982,Coastal water bodies and intertidal areas,2019,2019,1000 ha,163.92,E,Estimated value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2001,2001,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2002,2002,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2003,2003,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2004,2004,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2005,2005,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2006,2006,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2007,2007,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2008,2008,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2009,2009,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2010,2010,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2011,2011,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2012,2012,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2013,2013,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2014,2014,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5007,Area from MODIS,6982,Coastal water bodies and intertidal areas,2021,2021,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,1992,1992,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,1993,1993,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,1994,1994,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,1995,1995,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,1996,1996,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,1997,1997,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,1998,1998,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,1999,1999,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2000,2000,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2001,2001,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2002,2002,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2003,2003,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2004,2004,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2005,2005,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2006,2006,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2007,2007,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2008,2008,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2009,2009,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2010,2010,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2011,2011,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2012,2012,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2013,2013,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2014,2014,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2015,2015,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2016,2016,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2017,2017,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2018,2018,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2019,2019,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5008,Area from CCI_LC,6982,Coastal water bodies and intertidal areas,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6982,Coastal water bodies and intertidal areas,2020,2020,1000 ha,,O,Missing value
+LC,Land Cover,090,Solomon Islands,5013,Area from WorldCover,6982,Coastal water bodies and intertidal areas,2021,2021,1000 ha,,O,Missing value
